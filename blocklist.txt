@@ -24,9 +24,9 @@
 
 ||tmiaf.ru^
 ||tmstat.ru^
-||tm.t-bank-app.ru^
+! ||tm.t-bank-app.ru^
 ||sage-collector.tbank.ru^
-||csc.tbank.ru^
+! ||csc.tbank.ru^
 ||crashlyticsreports-pa.googleapis.com^
 ||firebaselogging-pa.googleapis.com^
 
@@ -34,5 +34,8 @@
 ||t-static.ru^
 ||cdn.t-bank-app.su^
 ||cdn.t-bank-app.ru^
+||acdn.t-bank-app.ru^
+||social-api.t-bank-app.ru^
+||gtech-tax-deduction.tbank.ru^
 
 ||status-bar-application.tbank.ru^
