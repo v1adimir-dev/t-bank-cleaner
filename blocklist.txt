@@ -1,0 +1,10 @@
+api-stories.t-bank-app.ru
+stories-rtb.t-bank-app.ru
+ms-dsp.t-bank-app.ru
+shopping.t-bank-app.ru
+hotels-growth-feed.t-bank-app.ru
+travel.t-bank-app.ru
+tmiaf.ru
+tmstat.ru
+sage-collector.tbank.ru
+stats.rustore.ru
