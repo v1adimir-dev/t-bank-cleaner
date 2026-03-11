@@ -1,7 +1,14 @@
+||push-history-api.t-bank-app.ru^
 ||api-stories.t-bank-app.ru^
 ||stories-rtb.t-bank-app.ru^
 ||ms-dsp.t-bank-app.ru^
 ||shopping.t-bank-app.ru^
+||shortcuts.tinkoff.ru^
+||media.tinkoff.ru^
+||api-dd.tinkoff.ru^
+||api-invest-gw.tinkoff.ru^
+||api-invest-gw.t-bank-app.ru^
+||api.tinkoffinsurance.ru^
 ||hotels-growth-feed.t-bank-app.ru^
 ||travel.t-bank-app.ru^
 ||ms-dsp.tinkoff.ru^
